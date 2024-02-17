@@ -1,11 +1,3 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/music-player)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/music-player?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/music-player?style=social)
-
-  <br />
-  <br />
 
   <h2 align="center">Web Music Player</h2>
 
@@ -34,13 +26,13 @@ To run **Music Player** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/music-player.git
+sudo git clone git@github.com:sakaars/Music-Player-Web-Application.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/music-player.git
+git clone git@github.com:sakaars/Music-Player-Web-Application.git
 ```
 
 ### License
